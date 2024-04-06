@@ -1,0 +1,1 @@
+Private Physics Exercise Project - Calculating a Correlated Random Sequence with Hidden Correlation. All in the form of a Text User Interface (TUI) - Using Numpy, Sklearn, FastICA libraries.
